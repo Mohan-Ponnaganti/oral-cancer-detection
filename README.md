@@ -1,6 +1,6 @@
 Key Features:
 
-Developed a machine learning model to classify medical images as cancerous or non-cancerous.
+Developed a deep learning model to classify medical images as cancerous or non-cancerous (mature and pre mature ).
 Focused on detecting oral cancer using image data, ensuring high accuracy and reliability.
 Challenges:
 
